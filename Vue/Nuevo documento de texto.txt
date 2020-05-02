@@ -1,0 +1,10 @@
+#DoctorJs #JavaScriptTip #Vue
+Introducción de Vue.js:
+Para usar Vue se debe tener en cuenta: 
+1. Crear una nueva instancia de Vue con new Vue
+2. Existen 3 objetos básicos y fundamentales que estarán en la mayoria de las aplicaciones web: el, data y methods 
+3. Se debe crear un contenedor con un id igual al del objeto el para establecer el alcance del framework 
+
+Es todo. ¿Sencillo verdad? :p
+Unete a la comunidad de #DoctorJs para poder aprender JavaScript de manera amena y sencilla, te dejo el link: https://bit.ly/2DxGPrp
+#code #software #desarrollo #programacion #js #javascript #carbonsh #themedark #coding #programming #developer #tecnologia #softwaredeveloper #programmer #web
